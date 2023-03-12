@@ -27,6 +27,7 @@ namespace GAD_Project_2
             no2 = double.Parse(textBox2.Text);
             ans = no1 + no2;
             textBox3.Text = ans.ToString();
+            // int no4 = double
                 
         }
     }
