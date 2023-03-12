@@ -29,6 +29,7 @@ namespace GAD_Project_2
             textBox3.Text = ans.ToString();
             //double = samman;
             // int no4 = double
+            //bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb;
                 
         }
     }
