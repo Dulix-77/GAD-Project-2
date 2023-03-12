@@ -30,7 +30,7 @@ namespace GAD_Project_2
             //double = samman;
             // int no4 = double
             //bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb;
-                
+                //nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn;
         }
     }
 }
